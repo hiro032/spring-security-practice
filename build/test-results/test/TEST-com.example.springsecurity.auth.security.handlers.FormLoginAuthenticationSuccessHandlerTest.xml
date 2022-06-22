@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.springsecurity.auth.security.handlers.FormLoginAuthenticationSuccessHandlerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-06-22T02:41:24" hostname="jangminbong-ui-MacBookPro.local" time="0.182">
+  <properties/>
+  <testcase name="인증 완료된 토큰을 통해 jwt token 을 생성해 응답한다." classname="com.example.springsecurity.auth.security.handlers.FormLoginAuthenticationSuccessHandlerTest" time="0.182"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
